@@ -1,0 +1,11 @@
+#EXTM3U
+
+# --- Categoria: Animação ---
+#EXTINF:-1 tvg-id="Animacao" group-title="Animação", Minecraft o Filme
+https://www.googleapis.com/drive/v3/files/13R3QLzNoDV5gypDsPWxMZiT4mFQrR_H7?alt=media&key=AIzaSyCDkWDMNViyKxHTkZKlDdtTUu8uWWv7Zoo
+
+#EXTINF:-1 tvg-id="Filmes2" group-title="Filmes", HBO
+http://exemplo.com/stream/hbo.m3u8
+
+#EXTINF:-1 tvg-id="Filmes3" group-title="Filmes", Cinemax
+http://exemplo.com/stream/cinemax.m3u8
